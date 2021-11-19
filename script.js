@@ -204,7 +204,7 @@ const birb = {
     w: 34,
     h: 26,
     frame: 0,
-    gravity: 0.25,
+    gravity: 0.8,
     jump: 4.6,
     speed: 0,
     rotation: 0,
